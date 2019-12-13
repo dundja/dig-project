@@ -1,15 +1,15 @@
 # DIG Project
 
-### Dig Products aplikacija.
+### Dig Products application.
 
-## Instalacija:
+## Initializing app:
 
-### Korak 1: Klonirajte repo
+### Step 1: Clone repo.
 
-### Korak 2: U root folderu `yarn` ili `npm install` komanda kako bi instalirali neophode dependecies
+### Step 2: In root directory type `yarn` or `npm install` command to install all necessary dependecies.
 
-### Korak 3: `yarn start` ili `npm start` komanda koja ce da pokrene projekat na portu [3000](http://localhost:3000)
+### Step 3: `yarn start` or `npm start` command to start project which will run on port [3000](http://localhost:3000).
 
-### Korak 4: Uzivajte u aplikaciji i napisite nam u komentaru koji vam se proizvod najvise svidja :)
+### Step 4: Enjoy the app and feel free to leave us comment on product that you like the most :)
 
-**Hvala,Dundja**
+**Thanks, Dundja.**
